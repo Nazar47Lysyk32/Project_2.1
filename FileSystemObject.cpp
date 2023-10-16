@@ -15,7 +15,7 @@ void FileSystemObject::rename(const string& new_name) {
 }
 
 void FileSystemObject::remove() {
-    // Реалізація видалення об'єкта з файлової системи
+    // ГђГҐГ Г«ВіГ§Г Г¶ВіГї ГўГЁГ¤Г Г«ГҐГ­Г­Гї Г®ГЎ'ВєГЄГІГ  Г§ ГґГ Г©Г«Г®ГўГ®Вї Г±ГЁГ±ГІГҐГ¬ГЁ
 }
 
 int FileSystemObject::getSize() const {
